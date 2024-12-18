@@ -33,7 +33,7 @@
 
             <!-- Lista de Livros -->
 
-            <section class="grid gap-4 grid-cols-3">
+            <section class="grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             
             <!-- LIVROS -->
 
@@ -45,7 +45,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
@@ -67,7 +67,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
@@ -89,7 +89,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
@@ -111,7 +111,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
@@ -133,7 +133,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
@@ -155,7 +155,7 @@
 
                     <div>
 
-                        <div class="font-semibold">Titulo</div>
+                        <a href="/livro.php?" class="font-semibold hover:underline">Titulo</a>
                         <div class="text-xs italic">Autor</div>
                         <div class="text-xs italic">⭐⭐⭐⭐⭐(3 Avaliacoes)</div>    
 
