@@ -1,1 +1,1 @@
-Pagina Inexistente
+<h1 class="text-lg font-bold mt-2 text-red-700" style="text-align: center;">PAGINA INEXISTENTE... Desculpe!</h1>
